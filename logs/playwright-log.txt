@@ -1,0 +1,15 @@
+{"level":30,"time":"2021-05-04T17:13:57.219Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Listening on 61903"}
+{"level":30,"time":"2021-05-04T17:13:57.628Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active context"}
+{"level":30,"time":"2021-05-04T17:13:57.837Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-04T17:13:57.837Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active page"}
+{"level":30,"time":"2021-05-04T17:14:01.237Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Retrieved text for element css=span containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2021-05-04T17:14:01.343Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2021-05-04T17:14:02.153Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-04T17:14:02.201Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Retrieved text for element css=.place-info-box containing PIZZA BUG\n 4.9\nPizzaria\n25m"}
+{"level":30,"time":"2021-05-04T17:14:02.240Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Retrieved text for element css=.place-info-box containing DEBUGER KING\n 3.5\nHamburgers\n100m"}
+{"level":30,"time":"2021-05-04T17:14:03.373Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active context"}
+{"level":30,"time":"2021-05-04T17:14:03.374Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-04T17:14:03.374Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active page"}
+{"level":30,"time":"2021-05-04T17:14:03.388Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active context"}
+{"level":30,"time":"2021-05-04T17:14:03.388Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-04T17:14:03.388Z","pid":10756,"hostname":"DESKTOP-CRDKPLU","msg":"Changed active page"}
