@@ -1,0 +1,16 @@
+{
+    "restaurant": "STARBUGS COFFEE",
+    "desc": "Nada melhor que um café pra te ajudar a resolver um bug.",
+    "products": [
+        {
+            "name": "Cappuccino com Chantilly"
+        },
+        {
+            "name": "Super Espreso"
+        },
+        {
+            "name": "Starbugs 500 error"
+        }
+    ],
+    "total": "38,00"
+}
