@@ -1,7 +1,6 @@
 * Settings *
 Documentation           Ações da funcionalidade do carrinho de compras
 
-
 * Keywords *
 Add To Cart
     [Arguments]         ${name}
@@ -11,7 +10,7 @@ Add To Cart
 Should Add To Cart
     [Arguments]         ${name}
 
-    Wait For Elements State         css=#cart tr >> text=${name}     visible     5
+    Wait For Elements State         css=#cart tr >> text=${name}     visible     ${DEFAULT_TIMEOUT}
 
 Total Cart Should Be
     [Arguments]         ${total}
